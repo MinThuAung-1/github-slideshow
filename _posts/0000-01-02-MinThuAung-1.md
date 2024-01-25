@@ -2,5 +2,5 @@
 layout:slide
 title:  "welcone to your second slide!"
 ---
-just type whatever you want -new text
+-new text
 use left arrow to go back
